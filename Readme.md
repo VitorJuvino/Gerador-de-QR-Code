@@ -1,0 +1,1 @@
+Um Gerador de QR Code que ultiliza uma api do site https://goqr.me/api/kk
